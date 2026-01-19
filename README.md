@@ -11,6 +11,10 @@ The work includes **exploratory data analysis (EDA)** and **data cleaning using 
 
 ---
 
+
+### Dashboard File
+📥 **[Download Power BI Dashboard](Fraud%20analysis%20dashboard.pbix)**
+
 ## Dataset
 Synthetic financial fraud dataset containing transaction details such as amount, transaction type, merchant category, country, time, risk scores, and fraud status.
 
