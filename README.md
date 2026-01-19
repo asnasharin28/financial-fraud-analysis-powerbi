@@ -72,8 +72,8 @@ The dashboard provides insights into fraud behavior through:
 ---
 
 ## Author
-**Asna Sharin PV (Aachi)**  
-Aspiring Data Analyst  
+Asna Sharin PV 
+Data Analyst  
 
 - LinkedIn: http://linkedin.com/in/asna-sharin-b3757025a  
 - Portfolio: https://asnasharinpv.netlify.app
